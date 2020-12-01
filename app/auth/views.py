@@ -20,7 +20,6 @@ def register():
         title='New Account'
     return render_template('auth/register.html',registration_form=form)
 
-
 # Login
 @auth.route('/login',methods=['GET','POST'])
 def login():
