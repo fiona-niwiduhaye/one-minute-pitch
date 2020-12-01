@@ -15,7 +15,7 @@ flask
 CSS
 
 ### Live link
-You can view the project through this link :
+You can view the project through this link :https://pitchthem.herokuapp.com/
 
 ### Contact Information
 
